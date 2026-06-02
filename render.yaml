@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: big-deal-admin
+    env: node
+    buildCommand: npm install
+    startCommand: node index.js
