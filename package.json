@@ -1,0 +1,14 @@
+{
+  "name": "big-deal-admin",
+  "version": "1.0.0",
+  "description": "BIG DEAL ADMIN Discord Security Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
